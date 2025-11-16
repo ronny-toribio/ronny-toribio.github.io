@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="hero hud-card">
-  <h1>Hi — I'm **Ronny Toribio**</h1>
+  <h1>Hi — I'm <strong>Ronny Toribio</strong></h1>
   <p>Machine learning engineer — deep learning, computer vision, model deployment, and scalable inference systems.</p>
 </div>
 
