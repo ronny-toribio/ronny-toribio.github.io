@@ -1,7 +1,6 @@
 ---
 layout: project
 title: "Coffeeless Programming Notifications Service"
-thumbnail: /assets/img/coffeeless/small-icon.png
 technologies: [Typescrypt, Express, Express-ws, AWS DynamoDB, MySQL, Slack SDK, AWS Cloudwatch, Jest, Clean Architecture]
 summary: "Built a TypeScript-based internal Notifications Service using Express REST APIs and WebSockets, and integrated Slack to deliver urgent event alerts in real time."
 ---
