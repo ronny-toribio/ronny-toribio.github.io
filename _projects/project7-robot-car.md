@@ -16,9 +16,9 @@ This project brought together hardware assembly, low-level networking, computer 
 
 ### Images
 
-![conv1](/assets/img/robotcar/robot-car.png)
+![car1](/assets/img/robotcar/robot-car.png)
 
-![conv1](/assets/img/robotcar/robot-vision1.png)
+![car2](/assets/img/robotcar/robot-vision1.png)
 
-![conv1](/assets/img/robotcar/robot-vision2.png)
+![car3](/assets/img/robotcar/robot-vision2.png)
 
