@@ -165,7 +165,8 @@ body::after{
 .hud-card::after{
   content:"";
   position:absolute;
-  width:18px;height:18px;
+  width:18px;
+  height:18px;
   border:2px solid transparent;
   pointer-events:none;
 }
@@ -177,7 +178,7 @@ body::after{
   filter: blur(.2px);
 }
 .hud-card::after{
-  bottom:-1px; right:-1px;
+  bottom:0px; right:0px;
   border-bottom-color:var(--accent-2);
   border-right-color:var(--accent-2);
   opacity:0.9;
