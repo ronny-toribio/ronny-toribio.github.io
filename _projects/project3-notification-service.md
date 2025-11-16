@@ -6,7 +6,7 @@ summary: "Built a TypeScript-based internal Notifications Service using Express 
 ---
 
 ![Coffeless](/assets/img/coffeeless/large-icon.svg)
-# Coffeeless Programming Notifications Service
+## Notifications Service
 
 For this project, I developed an internal Notifications Service designed to streamline real-time communication within the company’s content management system. Built with TypeScript, the service provides both RESTful endpoints and WebSocket support through Express, ensuring reliable delivery of notifications across various parts of the platform.
 
