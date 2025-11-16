@@ -178,7 +178,7 @@ body::after{
   filter: blur(.3px);
 }
 .hud-card::after{
-  bottom:0px; right:0px;
+  bottom:0; right:0;
   border-bottom:2px solid var(--accent-2);
   border-right:2px solid var(--accent-2);
   border-bottom:none;
