@@ -140,7 +140,7 @@ body::after{
 /* small accent line under hero */
 .hero::after{
   content:"";
-  position:absolute;
+  position:relative;
   left:2rem;
   right:2rem;
   bottom:0.5rem;
