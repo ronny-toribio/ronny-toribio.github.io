@@ -7,7 +7,7 @@ summary: "Built a TypeScript-based internal Notifications Service using Express 
 ---
 
 # Coffeeless Programming Notifications Service
-![Coffeless](https://ronny-toribio.github.io/assets/img/coffeeless/large-icon.png)
+![Coffeless](/assets/img/coffeeless/large-icon.svg)
 For this project, I developed an internal Notifications Service designed to streamline real-time communication within the company’s content management system. Built with TypeScript, the service provides both RESTful endpoints and WebSocket support through Express, ensuring reliable delivery of notifications across various parts of the platform.
 
 To enhance operational awareness, I added seamless Slack integrations that relay urgent events directly to designated channels. This allows teams to receive critical updates instantly, improving responsiveness and coordination across workflows.
