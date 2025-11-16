@@ -165,30 +165,26 @@ body::after{
 .hud-card::after{
   content:"";
   position:absolute;
-  width:18px;
-  height:18px;
-  border:2px solid transparent;
+  width:18px; height:18px;
   pointer-events:none;
 }
 .hud-card::before{
-  top:-1px; left:-1px;
-  border-top-color:var(--accent);
-  border-left-color:var(--accent);
+  top:0; left:0;
+  border-top:2px solid var(--accent);
+  border-left:2px solid var(--accent);
+  border-right:none;
+  border-bottom:none;
   opacity:0.9;
-  filter: blur(.2px);
+  filter: blur(.3px);
 }
 .hud-card::after{
   bottom:0px; right:0px;
-  border-bottom-color:var(--accent-2);
-  border-right-color:var(--accent-2);
+  border-bottom:2px solid var(--accent-2);
+  border-right:2px solid var(--accent-2);
+  border-bottom:none;
+  border-right:none;
   opacity:0.9;
-}
-
-/* hover */
-.hud-card:hover{
-  transform: translateY(-6px);
-  box-shadow: 0 18px 60px rgba(0,209,255,0.06), 0 8px 26px rgba(0,0,0,0.6);
-  border-color: rgba(124,241,255,0.35);
+  filter: blur(.3px);
 }
 
 /* ========== PROJECT LIST (home / projects) ========== */
