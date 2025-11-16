@@ -7,7 +7,8 @@ summary: "Implemented a search and autosuggestion service using TF-IDF, Levensht
 ---
 
 # Coffeeless Programming Quick Search
-![Coffeless](https://ronny-toribio.github.io/assets/img/coffeeless/large-icon.svg)
+![Coffeless](/assets/img/coffeeless/large-icon.svg)
+
 For this project, I built a robust article recommendation and autosuggestion service designed to improve search accuracy and user experience on the Coffeeless Programming platform—an educational initiative in the United States that helps individuals prepare for careers in software engineering.
 
 The system leverages *TF-IDF (Term Frequency–Inverse Document Frequency)* to analyze article content and generate contextually relevant suggestions based on user queries. To ensure the service remains effective even when users make spelling mistakes, I incorporated *Levenshtein distance ratios*, enabling fuzzy matching and resilient typo-tolerant search functionality.
