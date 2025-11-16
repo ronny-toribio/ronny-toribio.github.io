@@ -6,7 +6,7 @@ summary: "A serverless Retrieval-Augmented Generation system that transforms edu
 ---
 
 # Coffeeless Programming Smart Search
-![Coffeless](/assets/img/coffeeless/large-icon.png)
+![Coffeless](https://ronny-toribio.github.io/assets/img/coffeeless/large-icon.png)
 This project showcases a retrieval-augmented generation (RAG) system designed to transform static educational articles into a dynamic, intelligent, query-driven knowledge experience. The system integrates a large language model, embedding model, and vector database to deliver context-aware answers drawn directly from the website’s educational content.
 
 To support this capability, I engineered a suite of AWS Lambda functions that manage the entire content-indexing and query-response pipeline. Bloggers can selectively index specific sections of their posts, allowing only the most relevant content to be embedded and stored. This selective-chunking approach increases retrieval precision while maintaining tight control over costs and performance. The solution fits seamlessly into Coffeeless Programming’s serverless architecture, emphasizing scalability, decoupling, and maintainability.
