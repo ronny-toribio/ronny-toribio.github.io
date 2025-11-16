@@ -17,7 +17,7 @@ For computer-vision capabilities, the bot uses *OpenCV* alongside a *YOLOv8 Conv
 This combination of multimodal AI, computer vision, and device integration results in a highly capable, privacy-preserving personal assistant fully contained within the Signal ecosystem.
 
 ### Images
-![conv1](/assets/img/chatbot/conv1.jpg)
-
-![conv2](/assets/img/chatbot/conv2.jpg)
+{: .img-row style="display:flex; gap:10px;"}
+![conv1](/assets/img/chatbot/conv1.jpg){: width="200" }
+![conv2](/assets/img/chatbot/conv2.jpg){: width="200" }
 
