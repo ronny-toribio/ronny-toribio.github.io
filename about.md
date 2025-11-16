@@ -4,14 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About
-
-<div class="hud-card" style="margin-top:0.6rem;">
-  <p><strong>Ronny Toribio</strong> — I'm passionate about machine learning and emerging technologies. I hold a Bachelor’s Degree in Mathematics with a Data Science Concentration. I have expertise in designing APIs, developing serverless solutions, and solving challenging problems using AI and machine learning frameworks like Pytorch, Sci-kit Learn, and TensorFlow/Keras.
-
-I’ve worked extensively with programming languages such as Python, Typescript, JavaScript, and C/C++, applying them across domains like machine learning, web development, mobile development, IoT and robotics. My projects range from creating chatbots with advanced reasoning, and I'm always eager to explore innovative ideas and push the boundaries of technology.
-</p>
-
+{% capture about_content %}
 - 🔭 Current Work: Building innovative solutions in machine learning and serverless architectures.
 - 🌱 Currently Learning: Advanced concepts in Machine Learning.
 - 👯 Looking to Collaborate: Excited to work on Machine Learning projects.
@@ -45,5 +38,17 @@ I’ve worked extensively with programming languages such as Python, Typescript,
 ### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+{% endcapture %}
+
+
+# About
+
+<div class="hud-card" style="margin-top:0.6rem;">
+  <p><strong>Ronny Toribio</strong> — I'm passionate about machine learning and emerging technologies. I hold a Bachelor’s Degree in Mathematics with a Data Science Concentration. I have expertise in designing APIs, developing serverless solutions, and solving challenging problems using AI and machine learning frameworks like Pytorch, Sci-kit Learn, and TensorFlow/Keras.
+
+I’ve worked extensively with programming languages such as Python, Typescript, JavaScript, and C/C++, applying them across domains like machine learning, web development, mobile development, IoT and robotics. My projects range from creating chatbots with advanced reasoning, and I'm always eager to explore innovative ideas and push the boundaries of technology.
+</p>
+
+{{ about_content | markdownify }}
 
 </div>
