@@ -15,10 +15,8 @@ To operate the robot, I developed a *desktop client application* using Tkinter, 
 This project brought together hardware assembly, low-level networking, computer vision, and machine learning to create an end-to-end mobile robotics system.
 
 ### Images
-
-![car1](/assets/img/robotcar/robot-car.png)
-
-![car2](/assets/img/robotcar/robot-vision1.png)
-
-![car3](/assets/img/robotcar/robot-vision2.png)
+{: .img-row style="display:flex; gap:10px;"}
+![car1](/assets/img/robotcar/robot-car.png){: width="316" }
+![car2](/assets/img/robotcar/robot-vision1.png){: width="316" }
+![car3](/assets/img/robotcar/robot-vision2.png){: width="316" }
 
