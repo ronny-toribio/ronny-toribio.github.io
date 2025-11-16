@@ -1,12 +1,11 @@
 ---
 title: "Coffeeless Programming Smart Search"
-thumbnail: /assets/img/coffeeless/small-icon.png
 technologies: [Python, AWS Bedrock, AWS DynamoDB, AWS Lambda, Pinecone, AWS Cloudwatch, Hierarchical Navigable Small Worlds(HNSW), approximate k nearest neighbors (kNN), cosine similarity, Clean Architecture]
 summary: "A serverless Retrieval-Augmented Generation system that transforms educational articles into an intelligent semantic search experience. Built with AWS Lambda, Amazon Bedrock, and Pinecone, the platform indexes selected article sections, performs fast HNSW-based vector search, and uses an LLM to deliver accurate, context-aware answers in real time."
 ---
 
-# Coffeeless Programming Smart Search
 ![Coffeless](/assets/img/coffeeless/large-icon.svg)
+## Coffeeless Programming Smart Search
 
 This project showcases a retrieval-augmented generation (RAG) system designed to transform static educational articles into a dynamic, intelligent, query-driven knowledge experience. The system integrates a large language model, embedding model, and vector database to deliver context-aware answers drawn directly from the website’s educational content.
 
