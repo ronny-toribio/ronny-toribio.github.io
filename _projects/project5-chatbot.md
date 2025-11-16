@@ -1,11 +1,11 @@
 ---
 layout: project
-title: "Object Detection with YOLOv8"
+title: "Signal LLM Chatbot"
 summary: "Built a multimodal personal assistant chatbot for Signal using Signal-cli, integrating OpenAI GPT, DALL·E, and Whisper; YOLOv8 + OpenCV for object detection; and multiple web APIs for weather, satellite imagery, flight tracking, and IoT device control."
 technologies: [Retrieval-Augmented Generation (RAG), JSON, Java, OpenAI Whisper, Requests, Linux, OpenCV, Matplotlib, PyTorch, LangChain, Machine Learning, Prompt Engineering, Network Programming, Python, Natural Language Processing (NLP), Signal API, OpenAI API]
 ---
 
-# Signal LLM chatbot
+# Signal LLM Chatbot
 For this project, I developed an advanced *Signal-based personal assistant chatbot* using *Signal-cli*, designed to operate entirely within *Signal Private Messenger* while offering a wide range of intelligent, multimodal capabilities.
 
 The assistant integrates several *OpenAI APIs*, enabling natural, contextual conversation through GPT models, *text-to-image generation* with DALL·E, and *speech-to-text transcription* powered by Whisper. These capabilities allow the bot to respond conversationally, generate images on demand, and convert voice messages into text.
