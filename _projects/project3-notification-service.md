@@ -6,8 +6,8 @@ technologies: [Typescrypt, Express, Express-ws, AWS DynamoDB, MySQL, Slack SDK, 
 summary: "Built a TypeScript-based internal Notifications Service using Express REST APIs and WebSockets, and integrated Slack to deliver urgent event alerts in real time."
 ---
 
-# Coffeeless Programming Notifications Service
 ![Coffeless](/assets/img/coffeeless/large-icon.svg)
+# Coffeeless Programming Notifications Service
 
 For this project, I developed an internal Notifications Service designed to streamline real-time communication within the company’s content management system. Built with TypeScript, the service provides both RESTful endpoints and WebSocket support through Express, ensuring reliable delivery of notifications across various parts of the platform.
 
