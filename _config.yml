@@ -1,0 +1,28 @@
+title: "Ronny Toribio"
+description: "My machine learning and software engineering portfolio."
+baseurl: ""
+url: "https://ronny-toribio.github.io"
+
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: project
