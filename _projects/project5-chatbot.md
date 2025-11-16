@@ -18,6 +18,6 @@ This combination of multimodal AI, computer vision, and device integration resul
 
 ### Images
 {: .img-row style="display:flex; gap:10px;"}
-![conv1](/assets/img/chatbot/conv1.jpg){: width="200" }
-![conv2](/assets/img/chatbot/conv2.jpg){: width="200" }
+![conv1](/assets/img/chatbot/conv1.jpg){: width="300" }
+![conv2](/assets/img/chatbot/conv2.jpg){: width="300" }
 
