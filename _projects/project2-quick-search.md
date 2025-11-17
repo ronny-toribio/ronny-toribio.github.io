@@ -13,3 +13,5 @@ For this project, I built a robust article recommendation and autosuggestion ser
 The system leverages *TF-IDF (Term Frequency–Inverse Document Frequency)* to analyze article content and generate contextually relevant suggestions based on user queries. To ensure the service remains effective even when users make spelling mistakes, I incorporated *Levenshtein distance ratios*, enabling fuzzy matching and resilient typo-tolerant search functionality.
 
 In addition, I developed an autosuggestion pipeline that combines *TF-IDF*, *Levenshtein-based typo correction*, and *NLTK preprocessing* (including tokenization, lemmatization, and stop-word filtering). This hybrid approach ensures fast, accurate, and meaningful suggestions as users type, enhancing overall usability and accessibility across the platform.
+
+Check out Quick Search / Autosuggestions at [Coffeeless Programming](https://www.coffeelessprogramming.com)
