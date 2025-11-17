@@ -16,3 +16,5 @@ At the core of the indexing workflow is the Embeddings Creator Lambda, which use
 For answering user questions, I developed the Query Resolver Lambda, which performs approximate k-nearest neighbors searches over the vector database. Using Pinecone’s HNSW graph, the system consistently returns relevant semantic matches in under three seconds. To elevate user experience even further, I extended the Query Resolver with full RAG capabilities—combining LLM generation with the retrieved article segments to produce precise, context-grounded responses.
 
 This project brings together distributed system design, serverless compute, vector search, and LLM-powered reasoning to deliver a scalable, intelligent search layer across blog content.
+
+Check out Smart Search at [Coffeeless Programming](https://www.coffeelessprogramming.com/search?query=javascript)
