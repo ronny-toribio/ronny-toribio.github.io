@@ -12,6 +12,13 @@ permalink: /about/
 - [Portfolio](https://ronny-toribio.github.io)
 - [Credly](https://www.credly.com/users/ronny-toribio)
 
+## AWS Cloud Quest Badges
+
+[![AWS Cloud Quest Gen AI Badge](/assets/img/badges/aws-cloud-quest-generative-ai-architect-training-ba.png)](https://www.credly.com/badges/c164a52d-e715-4a99-a0e3-3b801e80c0de/public_url)
+[![AWS Cloud Quest ML Badge](/assets/img/badges/aws-cloud-quest-machine-learning-training-badge.png)](https://www.credly.com/badges/4634a9ac-66a6-44e2-b677-db0decc0f87d/public_url)
+[![AWS Cloud Quest Data Analytics Badge](/assets/img/badges/aws-cloud-quest-data-analytics-training-badge.png)](https://www.credly.com/badges/9f618435-3a8c-40e2-b5c3-98192d40882c/public_url)
+[![AWS Cloud Quest Cloud Practioner](/assets/img/badges/aws-cloud-quest-machine-learning-training-badge.png)](https://www.credly.com/badges/2c87503b-3eb3-4e3e-90e3-21fb4c6b12c3/public_url)
+
 ## Skills
 
 ### 🖥️ Languages
