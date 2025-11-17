@@ -22,18 +22,20 @@ In addition to smart-home management, the application also serves as the primary
 - IOT Dashboard
 - Backyard Camera with weather
 - Robot Car Client
+
 {: .img-row style="display:flex; gap:10px;"}
-![dashboard](/assets/img/citadel/citadel-dashboard.jpg){: width="300" }
-![camera](/assets/img/citadel/citadel-camera.jpg){: width="300" }
-![robotcar](/assets/img/citadel/citadel-seeker.jpg){: width="300" }
+![dashboard](/assets/img/citadel/citadel-dashboard.jpg){: width="200" }
+![camera](/assets/img/citadel/citadel-camera.jpg){: width="200" }
+![robotcar](/assets/img/citadel/citadel-seeker.jpg){: width="200" }
 
 - Weather
 - Aircraft traffic
 - International Space Station (includes foorprint)
 - GNSS Satellites
 - Personal locations redacted for privacy
+
 {: .img-row style="display:flex; gap:10px;"}
-![weather](/assets/img/citadel/citadel-map-weather.jpg){: width="300" }
-![airtraffic](/assets/img/citadel/citadel-map-planes.jpg){: width="300" }
-![ISS](/assets/img/citadel/citadel-map-iss.jpg){: width="300" }
-![GNSS Sats](/assets/img/citadel/citadel-map-sats.jpg){: width="300" }
+![weather](/assets/img/citadel/citadel-map-weather.jpg){: width="200" }
+![airtraffic](/assets/img/citadel/citadel-map-planes.jpg){: width="200" }
+![ISS](/assets/img/citadel/citadel-map-iss.jpg){: width="200" }
+![GNSS Sats](/assets/img/citadel/citadel-map-sats.jpg){: width="200" }
