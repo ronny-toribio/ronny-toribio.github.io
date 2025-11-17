@@ -34,7 +34,6 @@ In addition to smart-home management, the application also serves as the primary
 - Personal locations redacted for privacy
 {: .img-row style="display:flex; gap:10px;"}
 ![weather](/assets/img/citadel/citadel-map-weather.jpg){: width="300" }
-![airtraffic](/assets/img/citadel/citadel-map-iss.jpg){: width="300" }
+![airtraffic](/assets/img/citadel/citadel-map-planes.jpg){: width="300" }
 ![ISS](/assets/img/citadel/citadel-map-iss.jpg){: width="300" }
-![GNSS Sats](/assets/img/citadel/citadel-map-iss.jpg){: width="300" }
-
+![GNSS Sats](/assets/img/citadel/citadel-map-sats.jpg){: width="300" }
