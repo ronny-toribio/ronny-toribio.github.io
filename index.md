@@ -14,8 +14,8 @@ title: Home
   <h2 style="margin:0 0 0.5rem 0; color:var(--accent-2);">Featured Projects</h2>
 
   <div class="project-grid">
-    {% assign featured = site.projects | slice: 0,3 %}
-    {% for project in featured %}
+    {% assign featured_projects = site.projects |  sort: 'order' | slice: 0,3 %}
+    {% for project in featured_projects %}
       <div class="hud-card project-item">
         {% if project.thumbnail %}
           <img src="{{ project.thumbnail | relative_url }}" alt="{{ project.title }} thumbnail" class="project-thumb" />

@@ -1,4 +1,5 @@
 ---
+order: 6
 layout: project
 title: "Signal LLM Chatbot"
 summary: "Built a multimodal personal assistant chatbot for Signal using Signal-cli, integrating OpenAI GPT, DALL·E, and Whisper; YOLOv8 + OpenCV for object detection; and multiple web APIs for weather, satellite imagery, flight tracking, and IoT device control."

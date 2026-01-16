@@ -1,4 +1,5 @@
 ---
+order: 5
 layout: project
 title: "Citadel Android Application"
 summary: "I built an Android app that lets me control all my IoT devices, view home cameras, access an interactive map with weather radar and flight tracking, and share locations with family. It also acts as a client for my robot car, giving me more direct control than my Signal LLM chatbot’s automated agent tools, with each platform serving different purposes."

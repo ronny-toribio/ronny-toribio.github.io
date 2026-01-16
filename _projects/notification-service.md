@@ -1,4 +1,5 @@
 ---
+order: 4
 layout: project
 title: "Coffeeless Programming Notifications Service"
 technologies: [Typescrypt, Express, Express-ws, AWS DynamoDB, MySQL, Slack SDK, AWS Cloudwatch, Jest, Clean Architecture]

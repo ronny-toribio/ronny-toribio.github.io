@@ -1,4 +1,5 @@
 ---
+order: 2
 layout: project
 title: "Coffeeless Programming Quick Search Service"
 technologies: [Python, Term Frequency-Inverse Document Frequency (TF-IDF), NLTK, Levenshtein distance, AWS Cloudwatch]

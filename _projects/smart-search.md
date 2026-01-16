@@ -1,4 +1,6 @@
 ---
+order: 1
+layout: project
 title: "Coffeeless Programming Smart Search Service"
 technologies: [Python, AWS Bedrock, AWS DynamoDB, AWS Lambda, Pinecone, AWS Cloudwatch, Hierarchical Navigable Small Worlds(HNSW), approximate k nearest neighbors (kNN), cosine similarity, Clean Architecture]
 summary: "A serverless Retrieval-Augmented Generation system that transforms educational articles into an intelligent semantic search experience. Built with AWS Lambda, Amazon Bedrock, and Pinecone, the platform indexes selected article sections, performs fast HNSW-based vector search, and uses an LLM to deliver accurate, context-aware answers in real time."
