@@ -9,7 +9,7 @@ permalink: /projects/
 <section style="margin-top:0.6rem;">
   <div class="project-grid">
     {% assign sorted_projects = site.projects | sort: 'order' %}
-    {% for project in sorted.projects %}
+    {% for project in sorted_projects %}
       <div class="hud-card project-item">
         {% if project.thumbnail %}
           <img src="{{ project.thumbnail | relative_url }}" alt="{{ project.title }} thumbnail" class="project-thumb" />
